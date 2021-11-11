@@ -1,6 +1,6 @@
 {
   "name": "@storybook/babel-plugin-require-context-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Babel plugin to replicate Webpack require.context",
   "main": "index.js",
   "scripts": {
