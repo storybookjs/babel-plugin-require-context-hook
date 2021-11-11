@@ -4,7 +4,7 @@
 
 ## Usage
 
-babelrc:
+In your babelrc:
 
 ```
 "plugins": [
